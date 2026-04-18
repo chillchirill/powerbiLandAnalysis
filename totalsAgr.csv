@@ -1,0 +1,10 @@
+kpi_enum,agg_date_left_bound,territory,territory_code,null_value_cnt,not_null_value_cnt,total_cnt,min_value,max_value,median_value,avg_value,sum_area,avg_cost_per_one_ha,month,year
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,67428.73,,,7,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,62650.86,,,8,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,60494.5,,,9,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,62367.4,,,10,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,63565.24,,,11,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,62396.44,,,12,2025
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,92858.79,,,1,2026
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,68976.19,,,2,2026
+land_market_average_price_per_ga,01/01/2021 00:00:00,Україна,UA00000000000000000,0,0,,,,,73277.91,,,3,2026

@@ -1,8 +1,8 @@
 const fs = require("fs/promises");
 const path = require("path");
 
-const INPUT_FILE = path.join(__dirname, "ukraine_gaprice.json");
-const OUTPUT_FILE = path.join(__dirname, "ukraine_gaprice_transformed.json");
+const INPUT_FILE = path.join(__dirname, "ukraineAgr.json");
+const OUTPUT_FILE = path.join(__dirname, "ukraineAgr_transformed.json");
 
 // Мапа перекладу територій для Power BI
 const territoryMap = {
@@ -36,7 +36,7 @@ const territoryMap = {
 
 function getMonthYearByIndex(index) {
   const startMonth = 7; // липень
-  const startYear = 2021;
+  const startYear = 2025;
 
   const absoluteMonthIndex = (startMonth - 1) + index;
   const year = startYear + Math.floor(absoluteMonthIndex / 12);

@@ -1,9 +1,9 @@
 const fs = require("fs/promises");
 const path = require("path");
 
-const INPUT_FILE = path.join(__dirname, "ukraine_gaprice_transformed.json");
-const MEASUREMENTS_FILE = path.join(__dirname, "measurements.csv");
-const TOTALS_FILE = path.join(__dirname, "totals.csv");
+const INPUT_FILE = path.join(__dirname, "ukraineAgr_transformed.json");
+const MEASUREMENTS_FILE = path.join(__dirname, "measurementsAgr.csv");
+const TOTALS_FILE = path.join(__dirname, "totalsAgr.csv");
 
 // --- helper: екранування CSV ---
 function escapeCSV(value) {
